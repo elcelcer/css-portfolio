@@ -1,0 +1,51 @@
+/*global styles*/
+body {
+    color: #cc2ccc;
+}
+img { 
+    width: 300px;
+}
+
+/*Profile*/
+h1 {
+    color:#9316af;
+}
+h2 {
+    color:#560869;
+}
+.title {
+    font-style:italic;
+    color: #8C7AA9;
+}
+.top-title {
+    background: #10a8ad;
+    padding: 8px;
+    border-radius: 11px;
+    text-align: center;
+}
+.projects {
+background: #1c92af;
+color:antiquewhite;
+}
+.work-experience {
+    background: #04bfee;
+    color:antiquewhite;
+}
+footer {
+    background: rgb(29, 167, 172);
+}
+a:link {
+    color:lime;
+}
+a:visited {
+    color:black;
+}
+a:focus {
+    outline: 2px solid whitesmoke;
+}
+a:active { 
+    color:azure;
+}
+a.hoover {
+    color: yellowgreen;
+}
